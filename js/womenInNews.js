@@ -51,7 +51,7 @@ window.onload = () => {
 
 
 const token = localStorage.getItem("token")
-fetch("https://pragati-one.herokuapp.com/auth/isloggedin", {
+fetch("https://pragati-api.herokuapp.com/auth/isloggedin", {
     method: 'GET',
     headers: {
         'Content-Type': 'application/json',

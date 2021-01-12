@@ -43,7 +43,7 @@ store['NAGALAND'] = '181'
 store['MIZORAM'] = '181'
 store['MEGHALAYA'] = '112'
 
-fetch("https://pragati-one.herokuapp.com/auth/isloggedin", {
+fetch("https://pragati-api.herokuapp.com/auth/isloggedin", {
     method: "GET",
     headers: {
         "Content-Type": "application/json",
