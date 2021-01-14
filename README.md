@@ -59,10 +59,6 @@ Link to backend repo:
 2. The Project is hosted on Netlify and is live at https://risewithpragati.netlify.app/
 3. Backend Server is deployed using Heroku
 
-### Demo Video: 
-
-
-
 ## Project UI
 ![Web-Pragati](https://github.com/mshreya9/Pragati-Frontend/blob/master/UI_UX_Screenshots/home.jpg)
 ![PWA-Pragati](https://github.com/mshreya9/Pragati-Frontend/blob/master/images/pwa-home.jpg)
