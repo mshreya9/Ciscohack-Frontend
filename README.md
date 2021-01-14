@@ -43,7 +43,7 @@
 1. Technical Stack Used: NodeJS, MongoDB, ExpressJS, JWT
 2. Editor Used: VS Code
 
-Link to backend repo: https://github.com/TheCodeClutch/Social-Innovation-Challenge-2020-TCC-Backend
+Link to backend repo: 
 
 ### 3rd Party API's
 
@@ -61,22 +61,22 @@ Link to backend repo: https://github.com/TheCodeClutch/Social-Innovation-Challen
 
 ### Demo Video: 
 
-https://youtu.be/niYeZvvpto4
+
 
 ## Project UI
-![Web-Pragati](https://github.com/TheCodeClutch/Social-Innovation-Challenge-2020-TCC/blob/main/UI_UX_Screenshots/home.jpg)
-![PWA-Pragati](https://github.com/TheCodeClutch/Social-Innovation-Challenge-2020-TCC/blob/main/images/pwa-home.jpg)
+![Web-Pragati](https://github.com/mshreya9/Pragati-Frontend/blob/master/UI_UX_Screenshots/home.jpg)
+![PWA-Pragati](https://github.com/mshreya9/Pragati-Frontend/blob/master/images/pwa-home.jpg)
 
 ## Contributors
 
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/saloni0104"><img src="https://github.com/TheCodeClutch/Social-Innovation-Challenge-2020-TCC/blob/main/images/saloni.PNG" width="200px;"  height="200px;" alt=""/><br /><sub><b>Saloni Parekh</b></sub></a><br />
+    <td align="center"><a href="http://github.com/saloni0104"><img src="https://github.com/mshreya9/Pragati-Frontend/blob/master/images/saloni.PNG" width="200px"  height="200px" alt="Saloni Parekh"/><br /><sub><b>Saloni Parekh</b></sub></a><br />
    </td>
    </td>
-    <td align="center"><a href="http://github.com/nikhils4"><img src="https://avatars0.githubusercontent.com/u/30321610?s=400&u=0a8cd6fd05261868bef77b237b1a6532f12960ee&v=4" width="200px;" height="200px;" alt=""/><br /><sub><b>Nikhil Singh</b></sub></a><br />
+    <td align="center"><a href="http://github.com/nikhils4"><img src="https://avatars0.githubusercontent.com/u/30321610?s=400&u=0a8cd6fd05261868bef77b237b1a6532f12960ee&v=4" width="200px" height="200px" alt="Nikhil Singh"/><br /><sub><b>Nikhil Singh</b></sub></a><br />
    </td>
-    <td align="center"><a href="http://github.com/mshreya9"><img src="https://github.com/TheCodeClutch/Social-Innovation-Challenge-2020-TCC/blob/main/images/shreya.jpg" width="200px;" height="200px;" alt=""/><br /><sub><b>Shreya Maheshwari</b></sub></a><br/>
+    <td align="center"><a href="http://github.com/mshreya9"><img src="https://github.com/mshreya9/Pragati-Frontend/blob/master/images/shreya.jpg" width="200px;" height="200px;" alt="Shreya Maheshwari"/><br /><sub><b>Shreya Maheshwari</b></sub></a><br/>
     </td>
 </tr>
 </table>
