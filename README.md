@@ -1,6 +1,7 @@
 # Pragati 
 
 ## A Submission for the Cisco Webex Hackathon
+### Theme: Social Good
 
 <p align="justify">Pragati is an online platform that empowers rural housewives to earn money by selling their own authentic self-made products from home & providing reliable services on the go. There are various applications involving e-commerce portals to buy products or exchange old goods for new ones. But, currently, there is no such e-commerce innovation, targeting the backward class, that actually provides a platform to let village-women apply their self-learnt skills to use & start their business. While there are several means and opportunities for urban women to earn, the rural kind is often left to struggle.</p>
 
