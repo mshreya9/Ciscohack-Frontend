@@ -45,7 +45,7 @@
 1. Technical Stack Used: NodeJS, MongoDB, ExpressJS, JWT
 2. Editor Used: VS Code
 
-Link to backend repo: 
+Link to backend repo: https://github.com/nikhils4/Ciscohack-backend
 
 ### 3rd Party API's
 
